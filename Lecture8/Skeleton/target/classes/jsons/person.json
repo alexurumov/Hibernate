@@ -1,0 +1,13 @@
+{
+  "name": "Mitko",
+  "phoneNumbers": [
+    "2222222",
+    "3333333",
+    "1111111"
+  ],
+  "address": {
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "street": "Vitoshka 15"
+  }
+}
